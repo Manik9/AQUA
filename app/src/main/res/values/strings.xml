@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AquaInfo</string>
+    <string name="aquainfo">AQUAINFO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="city">
+        <item>Hyderabad</item>
+    </string-array>
+
+
+</resources>
